@@ -3,10 +3,10 @@ Given a video, find the frame which has perfect circle
 
 
 ### Dependencies
--Python3
--OpenCV – 3.4.15
--numpy - 1.12.0
--skimage 
+- Python3
+- OpenCV – 3.4.15
+- numpy - 1.12.0
+- skimage 
 
 
 ### Algotithm
